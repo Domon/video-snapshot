@@ -1,6 +1,6 @@
 # Video Snapshot
 
-Display a snapshot of a YouTube video with `Cmd-Opt-S`. Click anywhere to dismiss.
+Display a WebP snapshot of a YouTube video with `Cmd-Opt-S`. Click anywhere to dismiss.
 
 ## License
 

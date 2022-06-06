@@ -1,5 +1,5 @@
 {
-  "description": "Display a snapshot of a YouTube video with Cmd-Opt-S. Click anywhere to dismiss.",
+  "description": "Display a WebP snapshot of a YouTube video with Cmd-Opt-S. Click anywhere to dismiss.",
   "manifest_version": 2,
   "name": "Video Snapshot",
   "version": "2.0.0",
