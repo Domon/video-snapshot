@@ -2,7 +2,7 @@
   "description": "Display a snapshot of a YouTube video with Cmd-Opt-S. Click anywhere to dismiss.",
   "manifest_version": 2,
   "name": "Video Snapshot",
-  "version": "1.0",
+  "version": "2.0.0",
   "homepage_url": "https://github.com/Domon/video-snapshot",
   "content_scripts": [
     {
